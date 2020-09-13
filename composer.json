@@ -1,0 +1,16 @@
+{
+    "name": "filippo/lms",
+    "description": "Unofficial API for the swiss military e-learning platform",
+    "authors": [
+        {
+            "name": "Filippo Finke",
+            "email": "filippo.finke@samtrevano.ch"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "FilippoFinke\\LMS\\" : "src/"
+        }
+    },
+    "require": {}
+}
